@@ -23,9 +23,9 @@ This project was made with intention to help 'Local' shops owner to reach 'Peopl
   Although, This project was not built with intentions of earning money but, to gain understanding, and experiance #*But*# Adverstisement is an option.
   
 *Team Leader*
-Mohammed Faizan
+    Faizan Khan
 
 *Team Members*
-Abhishek Kumar Boby
-Koushel Kumar
-Neeraj Kumar
+    Abhishek Kumar Boby
+       Koushel Kumar
+    Neeraj Kumar
