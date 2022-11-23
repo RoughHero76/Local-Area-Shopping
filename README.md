@@ -16,7 +16,7 @@ This project was made with intention to help 'Local' shops owner to reach 'Peopl
   
   The probelm we are trying to fix that most websites are too big, to be able to foucs on one single area
   and they are not able to satisfy their sellers; we will give what sellers want, a free advertisement on the ewebsite and list of products 
-  that are available on their shops.. with options to customers to being able to buy online and get product delievered to their doorsteps in mere
+  that are available on their shops.. with options directly avialble to customers, being able to buy online and get product delievered to their doorsteps in mere
   few hours or identify what they want, and get it directly from shop mentioned on the website.
   
 # Earning
